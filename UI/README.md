@@ -2,7 +2,7 @@
 [![Docker Stars](https://img.shields.io/docker/pulls/capitalone/hygieia-ui.svg)](https://hub.docker.com/r/capitalone/hygieia-api/)
 
 ## Hygieia℠ UI
-##demo
+
 ### Requirements
 
 - NodeJS
